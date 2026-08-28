@@ -484,21 +484,8 @@ Reference DEM     LiDAR / GCP
 
 # 🧰 Proposed Technology Stack
 
-The implementation can be organized using the following technologies:
+<img width="1021" height="800" alt="image" src="https://github.com/user-attachments/assets/03673aa5-6ec7-42fc-88e4-7cc5f7dedc1e" />
 
-| Component | Technologies |
-|---|---|
-| Programming Language | Python / C++ |
-| Deep Learning | PyTorch |
-| Computer Vision | OpenCV |
-| Geospatial Processing | GDAL / Rasterio |
-| Numerical Processing | NumPy / SciPy |
-| ML / Calibration | Scikit-learn |
-| 3D Mesh Processing | Open3D / PyMeshLab |
-| 3D Rendering | Three.js / Unity / Unreal Engine |
-| Frontend | React / Web-based UI |
-| Backend | FastAPI / Flask |
-| Data Formats | PNG, JPG, GeoTIFF, OBJ, GLTF/GLB |
 
 The final stack can be adjusted depending on deployment requirements and the selected depth-estimation model.
 
